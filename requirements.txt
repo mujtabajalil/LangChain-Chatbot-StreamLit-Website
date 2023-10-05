@@ -1,0 +1,7 @@
+streamlit
+langchain
+huggingface-hub
+faiss-cpu
+requests
+beautifulsoup4
+tiktoken
