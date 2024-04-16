@@ -43,7 +43,7 @@ prompt = PromptTemplate(template=template,
                                           "important_note","more_information_url"])
 
 
-llm = OpenAI(openai_api_key="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")
+llm = OpenAI(openai_api_key="")
 
 def load_vector_store():
     # Indexing
